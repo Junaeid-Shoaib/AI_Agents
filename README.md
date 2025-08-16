@@ -7,6 +7,7 @@ It covers multiple tools, frameworks, and workflows, including:
 - **Hugging Face Agents**
 - **LangChain**
 - **LangFuse**
+- **LlamaIndex with Arize-phoenix**
 - **n8n**
 - **Crew AI**
 - **RAG with LangChain**
